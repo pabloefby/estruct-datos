@@ -1,0 +1,6 @@
+﻿  Source.cpp
+C:\Users\jpfb0\Desktop\ESTRUCTURA DATOS WINAPI\ESTRUCTURA DATOS WINAPI\Source.cpp(15,13): error C2664: 'HWND CreateDialogParamA(HINSTANCE,LPCSTR,HWND,DLGPROC,LPARAM)': el argumento 4 no puede convertirse de 'BOOL (__cdecl *)(HWND,UINT,WPARAM,LPARAM)' a 'DLGPROC'
+C:\Users\jpfb0\Desktop\ESTRUCTURA DATOS WINAPI\ESTRUCTURA DATOS WINAPI\Source.cpp(15,13): message : Ninguna de las funciones con este nombre en el ámbito coincide con el tipo de destino
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22000.0\um\winuser.h(4989,1): message : vea la declaración de 'CreateDialogParamA'
+C:\Users\jpfb0\Desktop\ESTRUCTURA DATOS WINAPI\ESTRUCTURA DATOS WINAPI\Source.cpp(15,13): message : al hacer coincidir la lista de argumentos '(HINSTANCE, LPSTR, int, overloaded-function, long)'
+C:\Users\jpfb0\Desktop\ESTRUCTURA DATOS WINAPI\ESTRUCTURA DATOS WINAPI\Source.cpp(27,17): warning C4244: 'return': conversión de 'WPARAM' a 'int'; posible pérdida de datos

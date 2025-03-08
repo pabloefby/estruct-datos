@@ -1,0 +1,13 @@
+CITAS REGISTRADAS
+
+N° de cita: 2
+Paciente: Garza Perez Cecilia Alejandra
+Telefono: 654123987
+Especialidad: Medicina Interna
+Medico: Garza Guitierrez Josefita
+Hora: 10 : 20
+Fecha: 13 / 12 / 2023
+Consultorio: 3
+Estado: ATENDIDA
+
+

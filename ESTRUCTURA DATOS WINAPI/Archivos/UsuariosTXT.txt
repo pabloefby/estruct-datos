@@ -1,0 +1,14 @@
+LISTA DE USUARIOS
+
+Clave de usuario: admin
+Nombre completo:  Jorge Pablo Flores Blanco
+Contraseña: admin1
+
+Clave de usuario: uranoblooger
+Nombre completo:  Evelyn Perez Victorino
+Contraseña: botitas
+
+Clave de usuario: hongoverde
+Nombre completo:  Kelsy Garduza Olivo
+Contraseña: asdfgh
+
